@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi 👋 !
 
 #### I'm [Tran Tam](https://github.com/ahmetcinaer), currently working as a Web Developer Jr. and Computer Engineer in Gaziantpe, Turkey.
@@ -38,19 +36,18 @@ Here are some ideas to get you started:
   ### Backend Technologies
 
 <div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="![image](https://user-images.githubusercontent.com/44680374/191719611-77dbe792-c9cc-47c8-9889-0a2cdc3cbf00.png)" alt="express logo" width="12%" title='PHP'/>
-  <img src ="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" alt="D3 logo" width="14%" title='.NET CORE'/>
+  <img src ="./images/php.png" alt="PHP logo" width="10%" title='PHP'/>
+  <img src ="./images/NET_Core_Logo.svg" alt="D3 logo" width="10%" title='.NET CORE'/>
 </div>
 
 ### Tools
 
 <div>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="6%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="12%" title='Git'/>
-  <img src ="![image](https://user-images.githubusercontent.com/44680374/191721068-1608cb30-54b3-49c0-bf08-99d9e909509d.png)" alt="Microsoft SQL Server logo" width="12%" title='Microsoft SQL Server"'/>
-  <img src ="![image](https://user-images.githubusercontent.com/44680374/191721584-76b3d018-5689-4985-8f90-35a11a867ae4.png)" alt="Unity logo" width="12%" title='Unity'/>
-  <img src ="![image](https://user-images.githubusercontent.com/44680374/191721937-e1011910-7212-4172-a86f-1f7fa4cb5649.png)" alt="Blender logo" width="12%" title='Blender'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="10%" title='Visual Studio Code'/>
+  <img src ="./images/git-svgrepo.svg" alt="Git logo" width="12%" title='Git'/>
+  <img src ="./images/microsoft-sql-server-logo-svgrepo-com.svg" alt="Microsoft SQL Server logo" width="12%" title='Microsoft SQL Server"'/>
+  <img src ="./images/unity.png" alt="Unity logo" width="12%" title='Unity'/>
+  <img src ="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Blender-icon.png" alt="Blender logo" width="12%" title='Blender'/>
 </div>
 
 - 📫 How to reach me: ahmetcinaer@gmail.com
