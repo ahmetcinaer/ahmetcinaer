@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="10%" title='Visual Studio Code'/>
-  <img src ="./images/git-svgrepo.svg" alt="Git logo" width="12%" title='Git'/>
+  <img src ="./images/git-svgrepo-com.svg" alt="Git logo" width="12%" title='Git'/>
   <img src ="./images/microsoft-sql-server-logo-svgrepo-com.svg" alt="Microsoft SQL Server logo" width="12%" title='Microsoft SQL Server"'/>
   <img src ="./images/unity.png" alt="Unity logo" width="12%" title='Unity'/>
   <img src ="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Blender-icon.png" alt="Blender logo" width="12%" title='Blender'/>
