@@ -1,6 +1,6 @@
 # Hi 👋 !
 
-#### I'm [Tran Tam](https://github.com/ahmetcinaer), currently working as a Web Developer Jr. and Computer Engineer in Gaziantpe, Turkey.
+#### I'm [Ahmet Can Çınar](https://github.com/ahmetcinaer), currently working as a Web Developer Jr. and Computer Engineer in Gaziantpe, Turkey.
 
 <!--
 **ahmetcinaer/ahmetcinaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
